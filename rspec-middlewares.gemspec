@@ -19,7 +19,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
 
   gem.add_dependency "rspec", "~> 3.0"
-  gem.add_dependency 'ibciss-middleware', "~> 0.4.0"
+  gem.add_dependency 'ibsciss-middleware', "~> 0.4.0"
 
   gem.add_development_dependency 'bundler', '~> 1.0'
   gem.add_development_dependency 'rake', '~> 0.8'
